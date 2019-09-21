@@ -18,7 +18,7 @@ const HomePage: React.FC = () => {
     <DefaultLayout className="HomePage">
       <h1>こんにちはー!</h1>
       <p>
-        Hi World!
+        Release branch　プッシュするよ!
         My name is Ginpei Takanashi.
         I write JavaScript.
         I make JapaneseSushi.
