@@ -19,9 +19,7 @@ const HomePage: React.FC = () => {
       <h1>こんにちはー!</h1>
       <p>
         Release branch　プッシュするよ!
-        My name is Ginpei Takanashi.
-        I write JavaScript.
-        I make JapaneseSushi.
+        プルリクするぞー！
       </p>
       <p>
         →
